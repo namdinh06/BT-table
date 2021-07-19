@@ -1,0 +1,36 @@
+.heading{
+    text-transform: uppercase;
+    font-size: 48px;
+    margin:60px;
+    text-align: center;
+    color:rgb(25, 66, 201);
+}
+
+.info{
+    display: flex;
+    margin :auto;
+    width:70%;
+    justify-content: space-between;
+    font-size: 20px;
+    color:rgb(25, 66, 201);
+}
+
+.body{
+    display: flex;
+    margin :auto;
+    width:70%;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th,td{
+    border:2px solid rgb(95, 92, 92);
+    height:30px;
+}
+
+td{
+    min-width: 110px;
+}
